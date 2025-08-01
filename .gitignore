@@ -20,6 +20,8 @@
 /external
 .vs/
 *.vcxproj.user
+.zig-cache/
+zig-out/
 
 # Mac OS X Finder
 .DS_Store
